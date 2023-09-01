@@ -1,0 +1,195 @@
+.demo-style-switch {
+    opacity: 1;
+    position: fixed;
+    z-index: 9999;
+    top: 0;
+    right: -325px;
+    background: #FFFFFF;
+	height:100%;
+	width:320px;
+    -webkit-box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.3);
+            box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.3);
+}
+
+.demo-style-switch:hover {
+    opacity: 1 !important;
+}
+
+.demo-style-switch .switched-options {
+    position: relative;
+    width: 320px;
+    text-align: left;
+	right:-16px;
+	height:100%;
+	overflow-y:auto;
+}
+.demo-style-switch .switched-options .demos div{
+	padding:10px 5px;
+}
+.demo-style-switch .switched-options .demos img.main-image{
+	box-shadow:0 0 5px rgba(0,0,0,0.3);
+}
+.demo-style-switch .switched-options .demos ul{
+	margin-top:20px;
+}
+.demo-style-switch .switched-options .demos ul li{
+	width:50%;
+	float:left;
+	padding:10px 5px;
+}
+.demo-style-switch .switched-options .demos ul li img{
+	box-shadow:0 0 5px rgba(0,0,0,0.3);
+}
+.demo-style-switch .config-title {
+    font-size: 14px;
+    letter-spacing: 1px;
+    color: #000;
+    border-bottom: 1px dotted #CCCCCC;
+    border-top: 1px dotted #CCCCCC;
+    margin: 20px 0;
+	padding:20px;
+	text-align:center;
+}
+.demo-style-switch .config-title h3{
+	text-transform:uppercase;
+	margin: 0 0 13px 0;
+}
+.demo-style-switch .config-title p{
+	margin-bottom:15px;
+	font-weight:600;
+    font-size: 15px;
+    padding: 10px 0;
+}
+.demo-style-switch .config-title a.buy--btn{
+	display:block;
+	text-transform:upper-alpha;
+	color:#fff;
+	font-weight:500;
+	background:#ff5a2c;
+	padding: 10px 0;
+	border-radius:3px;
+}
+.demo-style-switch ul {
+    margin-bottom: 10px;
+    padding-left: 0px;
+}
+
+.demo-style-switch ul .active a {
+    color: #005885;
+    font-weight: 500;
+}
+
+.demo-style-switch ul .p {
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+    margin-top: 10px;
+}
+
+.demo-style-switch ul li:hover {
+    cursor: pointer;
+}
+
+.demo-style-switch ul li a {
+    font-size: 12px;
+    color: #808080;
+    letter-spacing: 0.1px;
+}
+
+.demo-style-switch ul li a:hover {
+    color: #008ed6;
+    text-decoration: none;
+}
+
+.demo-style-switch ul.styles {
+    margin-top: 15px;
+}
+
+.demo-style-switch ul.styles li {
+    display: inline-block;
+    margin-right: 5px;
+}
+
+.demo-style-switch ul.styles li .color {
+    width: 50px;
+    height: 25px;
+}
+
+.demo-style-switch ul.styles li .yellow {
+    background: #f0d43a;
+}
+.demo-style-switch ul.styles li .turquoise {
+    background: #1abc9c;
+}
+.demo-style-switch ul.styles li .light-green {
+    background: #8BC34A;
+}
+.demo-style-switch ul.styles li .purple {
+    background: #8470FF;
+}
+.demo-style-switch ul.styles li .light-blue {
+    background: #03A9F4;
+}
+.demo-style-switch ul.styles li .brown {
+    background: #B96C34;
+}
+
+
+.demo-style-switch .switch-button {
+	background: #fff none repeat scroll 0 0;
+	border-top-left-radius: 4px;
+	border-bottom-left-radius: 4px;
+	box-shadow: -4px 0 10px rgba(0, 0, 0, 0.13);
+	color: #80CD36;
+	font-size: 25px;
+	opacity: 1 !important;
+	overflow: hidden;
+	padding: 10px 15px;
+	position: absolute;
+	left: -51px;
+	z-index:1;
+	top:250px;
+}
+
+.demo-style-switch .switch-button:hover {
+    color: #80CD36;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.demo-style-switch .homepage-style li {
+    display: inline-block;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+
+.demo-style-switch .homepage-style li a {
+    padding: 5px;
+    font-size: 12px;
+    letter-spacing: inherit;
+    border: 1px solid #ececec;
+}
+
+.demo-style-switch .homepage-style li a:hover {
+    border: 1px solid #008ed6;
+}
+.demo-style-switch .homepage-style .active {
+    border: none;
+}
+
+.demo-style-switch .homepage-style .active a {
+    border: 1px solid #008ed6;
+    background: #008ed6;
+    color: #ffffff;
+}
+
+.demo-style-switch .font-selection li {
+    color: #808080;
+    font-size: 12px;
+    letter-spacing: 0.1px;
+}
+
+.demo-style-switch .font-selection li div:hover {
+    color: #008ed6;
+}
