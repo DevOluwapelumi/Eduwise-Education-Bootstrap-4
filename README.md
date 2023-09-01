@@ -24,3 +24,14 @@ Start promoting your educational services online!
 
 Contributions:
 Contributions are welcome! If you'd like to improve this template or fix any issues, please fork the repository, make your changes, and submit a pull request. We appreciate your contributions to make Eduwise-Education-Bootstrap-4 even better.
+
+
+
+License:
+This project is open-source and available under the MIT License. Feel free to use, modify, and distribute it according to the terms of the license.
+
+Demo: View Demo
+
+Author: Dev~Oluwapelumi
+
+Contact: Your Contact Information
