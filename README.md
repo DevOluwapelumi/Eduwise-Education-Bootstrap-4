@@ -21,3 +21,6 @@ Clone the repository: git clone (https://devoluwapelumi.github.io/Eduwise-Educat
 Customize the template to suit your branding and content.
 Deploy the website to your hosting server.
 Start promoting your educational services online!
+
+Contributions:
+Contributions are welcome! If you'd like to improve this template or fix any issues, please fork the repository, make your changes, and submit a pull request. We appreciate your contributions to make Eduwise-Education-Bootstrap-4 even better.
