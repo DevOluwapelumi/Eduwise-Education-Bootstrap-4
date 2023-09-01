@@ -12,3 +12,12 @@ Course Catalog: Showcase your courses with attractive cards, including course de
 Blog Section: Share educational articles, news, and updates through the integrated blog section.
 Interactive Contact Form: Allows users to get in touch with your institution easily.
 Multi-Page Layout: Provides separate sections for Home, Courses, About Us, Blog, Contact, and more.
+
+
+Getting Started:
+To use Eduwise-Education-Bootstrap-4 for your educational website project, follow these steps:
+
+Clone the repository: git clone (https://devoluwapelumi.github.io/Eduwise-Education-Bootstrap-4/)
+Customize the template to suit your branding and content.
+Deploy the website to your hosting server.
+Start promoting your educational services online!
