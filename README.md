@@ -23,7 +23,7 @@ Deploy the website to your hosting server.
 Start promoting your educational services online!
 
 Contributions:
-Contributions are welcome! If you'd like to improve this template or fix any issues, please fork the repository, make your changes, and submit a pull request. We appreciate your contributions to make Eduwise-Education-Bootstrap-4 even better.
+Contributions are welcome! If you'd like to improve this template or fix any issues, please fork the repository, make your changes, and submit a pull request. We appreciate your contributions to making Eduwise-Education-Bootstrap-4 even better.
 
 
 
@@ -34,4 +34,7 @@ Demo: View Demo
 
 Author: Dev~Oluwapelumi
 
-Contact: Your Contact Information
+Contact: wa.me+2347047142093
+
+
+Replace the placeholders with actual links, names, and contact information as needed. This description provides an overview of the project, its features, how to get started, and information about contributing and licensing, making it informative and inviting for potential users and contributors on GitHub.
