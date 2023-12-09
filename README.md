@@ -45,6 +45,6 @@ This project is open-source and available under the MIT License. Feel free to us
  Dev~Oluwapelumi
 
 ## Contact: 
- wa.me+2347047142093
+ (http//wa.me+2347047142093)
 
 Replace the placeholders with actual links, names, and contact information as needed. This description provides an overview of the project, its features, how to get started, and information about contributing and licensing, making it informative and inviting for potential users and contributors on GitHub.
