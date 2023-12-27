@@ -3,7 +3,6 @@
  Built using Bootstrap 4, this template combines a sleek and responsive design with a rich set of features, making it an ideal choice for educators, schools, universities, and online learning platforms.
 
 ## Key Features
-
 ### Responsive Design: 
  Ensures a seamless user experience on various devices, from desktops to mobile phones.
 ### Bootstrap 4: 
