@@ -27,6 +27,7 @@ To use Eduwise-Education-Bootstrap-4 for your educational website project, follo
 
 ## Clone the repository: 
 ### git clone (https://devoluwapelumi.github.io/Eduwise-Education-Bootstrap-4/)
+
 Customize the template to suit your branding and content.
 Deploy the website to your hosting server.
 Start promoting your educational services online!
